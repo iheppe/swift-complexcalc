@@ -72,7 +72,6 @@ class Calculator {
     }
     
     func count(_ args: [Int]) -> Int {
-        print(args.count)
         return args.count
     }
     
